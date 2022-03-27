@@ -7,7 +7,7 @@ This folder contains following files.
 * Test_set.xlsx
 * Sample_submission.xlsx
 * Flight_Price_Prediction.ipynb
-* flight_rf.pkl
+
 
 
 ## Problem statement
